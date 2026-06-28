@@ -1,10 +1,17 @@
 # Hi, I'm Adli Neiroukh 👋
 
-## Data Analytics | Business Operations | Quality Governance
+## Data & Operations Analyst | Passionate about SQL · Python · Power BI
 
-I'm a Business and Data Analyst professional based in **Brno, Czech Republic**, with 6+ years of experience in operational analytics, quality governance, KPI reporting, and process improvement across Finance, Supply Chain, and Customer Service environments.
+Based in **Brno, Czech Republic** 🇨🇿
 
-After building my analytical foundation at **Infosys BPM** (Currys & Cisco accounts), I'm now strengthening my technical data analytics skill set — focusing on SQL, Python, and Power BI to bridge operational expertise with data-driven decision making.
+I'm an analytics professional with a strong operational background, now building hands-on data analytics skills through real-world SQL projects, Python analysis, and Power BI dashboards.
+
+I'm passionate about using **SQL** to model and query data, **Python** to analyse and visualise datasets, and **Power BI** to turn numbers into clear business insights.
+
+🔭 Currently working on: SQL data projects and Power BI dashboards
+🌱 Currently learning: Advanced SQL · Power BI · Python for analytics
+💡 Interested in: Data Analytics · Business Intelligence · Operations Analytics · KPI Reporting
+📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adli%20Neiroukh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adli-neiroukh/)
 
 ---
 
@@ -32,6 +39,21 @@ After building my analytical foundation at **Infosys BPM** (Currys & Cisco accou
 
 ---
 
+### 🔍 SQL Exploratory Data Analysis (EDA)
+> Advanced analytics project applying structured analytical techniques to extract meaningful business insights from data.
+
+**Key concepts covered:**
+- Change Over Time analysis — tracking trends and performance shifts
+- Cumulative Analysis — understanding growth and progression
+- Performance Analysis — measuring and comparing KPIs
+- Part-to-Whole Analysis — proportional breakdowns and contribution
+- Data Segmentation — grouping and categorising for targeted insights
+- Reporting — structured output for business decision making
+
+🔗 [View Project](https://github.com/AdliNeiroukh/sql-exploratory-data-analysis-project)
+
+---
+
 ## 📜 Certifications
 
 - 🏆 **IBM Data Analyst Professional Certificate** — IBM / Coursera
@@ -46,30 +68,11 @@ After building my analytical foundation at **Infosys BPM** (Currys & Cisco accou
 
 ---
 
-## 💼 Professional Background
-
-| Domain | Experience |
-|--------|-----------|
-| Quality Governance & Analytics | 3+ years — Currys account (Infosys BPM) |
-| Supply Chain & Order Operations | 3+ years — Cisco EMEA (Infosys BPM) |
-| KPI Reporting & Dashboards | Advanced Excel — weekly/monthly governance reporting |
-| Root Cause Analysis (RCA) | Pareto analysis, CAPA, defect reduction |
-| Process Improvement | Lean methodology — ~2 FTE efficiency gain delivered |
-| People Leadership | 6-member quality team + 20+ members trained |
-
----
-
 ## 🌱 Currently Working On
 
 - 📊 Deepening **Power BI** dashboard development through Coursera
 - 🗄️ Building additional **SQL** analytical projects
 - 📁 Expanding GitHub portfolio with data analysis and reporting projects
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adli%20Neiroukh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adli-neiroukh/)
 
 ---
 
